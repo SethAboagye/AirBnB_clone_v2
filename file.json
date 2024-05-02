@@ -1,0 +1,31 @@
+{
+    "State.a54f0008-ab4f-42d9-ba51-a62414c2ba5a": {
+        "name": "California",
+        "id": "a54f0008-ab4f-42d9-ba51-a62414c2ba5a",
+        "created_at": "2024-02-20T22:46:05.983388",
+        "updated_at": "2024-02-20T22:46:05.983404",
+        "__class__": "State"
+    },
+    "State.5ddd68ee-66d6-44d2-bc0a-566e8056e384": {
+        "name": "Arizona",
+        "id": "5ddd68ee-66d6-44d2-bc0a-566e8056e384",
+        "created_at": "2024-02-20T22:46:05.992467",
+        "updated_at": "2024-02-20T22:46:05.992474",
+        "__class__": "State"
+    },
+    "Place.56654b98-b985-460f-84d6-981372281659": {
+        "city_id": "0001",
+        "user_id": "0001",
+        "name": "My little house",
+        "number_rooms": 4,
+        "number_bathrooms": 2,
+        "max_guest": 10,
+        "price_by_night": 300,
+        "latitude": 37.773972,
+        "longitude": -122.431297,
+        "id": "56654b98-b985-460f-84d6-981372281659",
+        "created_at": "2024-02-20T22:46:05.993573",
+        "updated_at": "2024-02-20T22:46:05.993580",
+        "__class__": "Place"
+    }
+}
